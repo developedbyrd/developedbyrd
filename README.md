@@ -4,7 +4,7 @@ I focus on clean implementation and solid system design.</h3>
 
 - 🔭 I’m currently working on [Interacto](https://interacto05.vercel.app/)
 
-- 🌱 I’m currently learning **ORM's and PostgreSQL SQL**
+- 🌱 I’m currently learning **ORM's and PostgreSQL**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developedbyrd@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramandeep-singh-47407928a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/developedbyrd) 
