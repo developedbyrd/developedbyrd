@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
-<h3 align="center">Full-stack developer building web applications from idea to deployment.
+<h1 align="left">Hi 👋, I'm Ramandeep Singh</h1>
+<h3 align="left">Full-stack developer building web applications from idea to deployment.
 I focus on clean implementation and solid system design.</h3>
 
 - 🔭 I’m currently working on [Interacto](https://interacto05.vercel.app/)
